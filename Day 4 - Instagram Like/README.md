@@ -2,4 +2,4 @@
 
 Implemented the Insta Like Option using Animations.
 
-![](working.gif)
+<img src="working.gif" height=520 width=280/>
